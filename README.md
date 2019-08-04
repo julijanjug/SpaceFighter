@@ -1,2 +1,2 @@
 # SpaceFighter
-IOS game about killing aliens.
+IOS classic arcade game where you kill aliens.
